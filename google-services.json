@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "22063668414",
+    "project_id": "rnt-firebase-auth",
+    "storage_bucket": "rnt-firebase-auth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22063668414:android:8984d29616a89c2b8a92ef",
+        "android_client_info": {
+          "package_name": "com.ikkyuu.firebaseAuthApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22063668414-vtcs2fbramblt8p3b0imsdjccgpt9e7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ikkyuu.firebaseAuthApp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "22063668414-qhcaijio9lck955paqicieofcumok5t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeSOyRFmjbwRhtAmWJBPhyThdy8CTGipc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22063668414-qhcaijio9lck955paqicieofcumok5t0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "22063668414-5c445di90nfui3fptcb29qkvfhi0kkej.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ikkyuu.firebaseAuthApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
