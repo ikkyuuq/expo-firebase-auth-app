@@ -14,7 +14,7 @@ const Layout = () => {
           ),
         }}
       />
-      <Tabs.Screen
+      <Stack.Screen
         name="setting"
         options={{
           tabBarIcon: ({ color, size }) => (
@@ -22,6 +22,7 @@ const Layout = () => {
           ),
           headerTitle: "Setting",
           headerShadowVisible: false,
+          headerLargeTitle: true,
           headerSearchBarOptions: {
             placeholder: "Search setting",
           },
