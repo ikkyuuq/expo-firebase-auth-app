@@ -23,6 +23,10 @@ const Layout = () => {
           headerTitle: "Setting",
           headerShadowVisible: false,
           headerLargeTitle: true,
+          headerLargeTitleOptions: {
+            title: "Setting",
+            visible: true,
+          },
           headerSearchBarOptions: {
             placeholder: "Search setting",
           },
